@@ -1,0 +1,94 @@
+*
+{
+box-sizing: border-box;
+padding: 0;
+margin: 0;
+}
+.icons
+{
+    width: 120px;
+    height: 120px;
+    margin-right: 20px;
+}
+nav{
+    background-color: #009047;
+    color: #fff;
+}
+.inputs_container
+{
+    color: #009047;
+    background-color:gold;
+    font-size: large;
+    font-weight: 400;
+}
+.content
+{
+    background-color: #ffefef;
+}
+.country_city_inf
+{
+display: flex;
+flex-flow: row wrap;
+justify-content: center;
+align-items: center;
+align-content: center;
+}
+.universal
+{
+display: flex;
+flex-flow: row wrap;
+justify-content: center;
+align-items: center;
+align-content: center;
+}
+.higri
+{
+display: flex;
+flex-flow: row wrap;
+justify-content: center;
+align-items: center;
+align-content: center;
+}
+.informations
+{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+    align-items: center;
+    align-content: center;
+    width: 100%;
+}
+.content{
+    background-color: #009047;
+    color: #fff;
+}
+.pray_time{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content:center;
+    align-items: center;
+    align-content: center;
+    width: 100%;
+    text-align: center;
+}
+.container_country
+{
+    width: 100%;
+}
+.city_div
+{
+    width: 100%;
+}
+.praying_time
+{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content:center;
+    align-items: center;
+    align-content: center;
+    width: 100%;
+    text-align: center;
+}
+hr{
+    width: 100%;
+}
